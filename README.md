@@ -1,4 +1,4 @@
-# flutter_training_path
+# Flutter Training Path
 
 A new Flutter project.
 
